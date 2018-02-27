@@ -1,0 +1,8 @@
+1. Who designed both RC5 and MD5?
+ - Ronald Rivest, MIT Professor
+ 
+2. What organization designed SHA-1?
+ - United States National Security Agency (NSA)
+ 
+3. Who co-developed both AES and SHA-3?
+ - United States National Institute of Standards and Technology (NIST)
